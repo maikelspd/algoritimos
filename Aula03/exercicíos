@@ -1,0 +1,7 @@
+const serie="game of thrones"
+const temporadas=88
+//este comando imprime o tipo de valor
+//pode ser string,number,boolean
+console.log(typeof serie,typeof temporadas)
+
+

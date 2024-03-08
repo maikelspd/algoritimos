@@ -1,0 +1,4 @@
+const serieFavorita="The Flash"
+const temporadas=9
+
+console.log('minha serie favorita é:',serie,typeof serieFavorita,"Ela tem:",temporadas,"temporadas",typeof temporadas)
